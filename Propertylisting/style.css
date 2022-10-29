@@ -146,6 +146,10 @@
   top: 12.1%; */
 }
 
+#username {
+  display: flex;
+  justify-content: center;
+}
 
 
 .profilepic {
@@ -158,6 +162,7 @@
 
   background: #d9d9d9;
 }
+
 .username {
   position: absolute;
   width: 228px;
